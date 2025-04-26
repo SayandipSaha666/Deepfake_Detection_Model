@@ -3,7 +3,6 @@
 This project presents a state-of-the-art pipeline for **DeepFake video detection** by combining multiple CNN backbones for spatial feature extraction and a **Transformer encoder** for temporal modeling across video frames. The model captures both **frame-level artifacts** and **temporal inconsistencies**, achieving exceptional accuracy.
 
 [📂 Dataset (Kaggle)](https://www.kaggle.com/datasets/sanikatiwarekar/deep-fake-detection-dfd-entire-original-dataset)  
-[🧠 Model Notebook](https://www.kaggle.com/code/noobcoder27/deepfake-detection-model/edit)
 
 ---
 
