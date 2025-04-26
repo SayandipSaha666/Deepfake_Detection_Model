@@ -24,6 +24,9 @@ DeepFakes are synthetic media where a person in a video is digitally altered to 
 
 ## 🧱 Architecture
 
+![Architecture Diagram](./images/Architecture.png)
+
+
 ### 1. Frame-Level Feature Extraction
 - Extract face crops from video frames using MTCNN.
 - Each frame is passed through three CNN backbones:
