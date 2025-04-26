@@ -24,7 +24,7 @@ DeepFakes are synthetic media where a person in a video is digitally altered to 
 
 ## 🧱 Architecture
 
-![Architecture Diagram](./images/Architecture.png)
+![Architecture Diagram](images/Architecture.jpg)
 
 
 ### 1. Frame-Level Feature Extraction
