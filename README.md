@@ -12,6 +12,8 @@ DeepFakes are synthetic media where a person in a video is digitally altered to 
 
 ---
 
+ [Read the Research Paper Here](https://shorturl.at/DLP9B)
+
 ## 📌 Highlights
 
 - 🔥 100% Accuracy, F1 Score, and ROC-AUC on test data
@@ -71,6 +73,9 @@ DeepFakes are synthetic media where a person in a video is digitally altered to 
 
 ## Performance
 
+![Confusion_matrix](images/confusion.png)
+
+
 | Metric                  | Value             |
 | ------------------------ | ----------------- |
 | **Test Accuracy**        | ~95–98%           |
@@ -78,7 +83,12 @@ DeepFakes are synthetic media where a person in a video is digitally altered to 
 | **Robustness**           | Detects temporal and spatial artifacts; good generalization on unseen fakes |
 | **Limitation**           | Some real videos outside the dataset may be falsely detected as fake |
 
+### Learning Curve and Accuracy
+![Learning_curve](images/loss.png)
+
 ---
+### Probability Distribution
+![Probability Distribution](images/prob.png)
 
 ## Requirements
 
